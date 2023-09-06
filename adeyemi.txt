@@ -1,0 +1,4 @@
+Hello Adeyemi
+How are you?
+we are learning devops
+we are enjoying it
